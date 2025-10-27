@@ -1,13 +1,9 @@
 /*
- * Ad Soyad: [SEMA ELMAHMUD]
+ * Ad Soyad: [Sema Elmahmud]
  * Ogrenci No: [250541618]
- * Tarih: [26.10.2025]
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
- * 
- * Bu program kullanicidan ogrenci bilgilerini alir ve
- * duzenli bir formatta ekrana yazdirir.
- * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
- 
+ * Tarih: 27.10.2025
+ * Aciklama: Ogrenci Bilgi Sistemi
+ */
 
 import java.util.Scanner;
 
@@ -44,3 +40,18 @@ public class OgrenciBilgi {
         input.close();
     }
 }
+
+=== OGRENCI BILGI SISTEMI ===
+Adinizi girin: sema
+Soyadinizi girin: elmahmud
+Ogrenci numaraniz: 250541618
+Yasiniz: 18
+GPA (0.00-4.00): 3.75
+=== OGRENCI BILGI SISTEMI ===
+Ad Soyad: sema elmahmud
+Ogrenci No: 250541618
+Yas: 18
+GPA: 3.75
+Durum: Basarili Ogrenci
+
+=== Code Execution Successful ===
